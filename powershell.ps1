@@ -1,1 +1,1 @@
-echo $test
+${1}.SetValue($null,$true)
